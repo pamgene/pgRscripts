@@ -1,0 +1,13 @@
+PamChip Location	Barcode	Row	Col	Array	Visual QC	Operator	Article number	Strip	ATP	Sample name	Protein amount (ug)	Cell line	Date	Project	Treatment off chip	Comment 1
+1	640119623	1	1	A1	OK	VLJ	86402	1	400.000	BT12 a	5	BT12	13.06.2020	Invadome Cells	Angiotropic	OK	
+1	640119623	2	1	A2	OK	VLJ	86402	1	400.000	BT13 a	5	BT13	13.06.2020	Invadome Cells	Angiogenic	OK	
+1	640119623	3	1	A3	OK	VLJ	86402	1	400.000	BT18 a	5	BT18	13.06.2020	Invadome Cells	Invasive	OK	
+1	640119623	4	1	A4	OK	VLJ	86402	1	400.000	ZH305 a	5	ZH305	13.06.2020	Invadome Cells	Invasive	OK	
+2	640119702	1	1	A1	OK	VLJ	86402	2	400.000	BT12 b	5	BT12	13.06.2020	Invadome Cells	Angiotropic	Bubble	
+2	640119702	2	1	A2	OK	VLJ	86402	2	400.000	BT13 b	5	BT13	13.06.2020	Invadome Cells	Angiogenic	Bubble	
+2	640119702	3	1	A3	OK	VLJ	86402	2	400.000	BT18 b	5	BT18	13.06.2020	Invadome Cells	Invasive	OK	
+2	640119702	4	1	A4	OK	VLJ	86402	2	400.000	ZH305 b	5	ZH305	13.06.2020	Invadome Cells	Invasive	OK	
+3	640119703	1	1	A1	OK	VLJ	86402	3	400.000	BT12 c	5	BT12	13.06.2020	Invadome Cells	Angiotropic	OK	
+3	640119703	2	1	A2	OK	VLJ	86402	3	400.000	BT13 c	5	BT13	13.06.2020	Invadome Cells	Angiogenic	OK	
+3	640119703	3	1	A3	OK	VLJ	86402	3	400.000	BT18 c	5	BT18	13.06.2020	Invadome Cells	Invasive	OK	
+3	640119703	4	1	A4	OK	VLJ	86402	3	400.000	ZH305 c	5	ZH305	13.06.2020	Invadome Cells	Invasive	Bubble	
