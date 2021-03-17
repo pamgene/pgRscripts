@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<filters>
+  <filter>
+    <property name="name">Spot(exclude)</property>
+    <property name="validateAll">true</property>
+    <property name="dimensionName">Spot</property>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[VTNC_390_402]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[VASP_271_283]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[VASP_150_162]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[TY3H_65_77]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[STMN2_90_102]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[STK6_283_295]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[REL_260_272]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[RAP1B_172_184]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[PTN12_32_44]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[PPR1A_28_40]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[PLM_76_88]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[NOS3_1171_1183]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[NFKB1_330_342]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[NCF1_321_333]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[NCF1_296_308]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[MYPC3_268_280]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[LIPS_944_956]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[KPB1_1011_1023]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[KAPCG_192_206]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[KAP2_92_104]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[GRIK2_708_720]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[F263_454_466]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[ERBB2_679_691]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[EPB42_241_253]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[DESP_2842_2854]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[CREB1_126_138]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[CFTR_761_773]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[CFTR_730_742]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[BAD_93_105]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[BAD_69_81]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[BAD_112_124]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[ANXA1_209_221]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[ADRB2_338_350]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[ADDB_706_718]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[PRKDC_2618_2630]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[GYS2_1_13]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[FRAP_2443_2455]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[TOP2A_1463_1475]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[NMDZ1_890_902]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[SCN7A_898_910]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[RS6_228_240]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[KIF2C_105_118_S106G]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[KCNA3_461_473]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[ERF_519_531]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[RYR1_4317_4329]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[CSF1R_701_713]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[CGHB_109_121]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[BCKD_45_57]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[NR4A1_344_356]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[CDN1A_139_151]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[CD27_212_224]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[KCNA6_504_516]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[KCNA2_442_454]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[PTK6_436_448]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[MPIP1_172_184]</property>
+      </expression>
+    </expressions>
+  </filter>
+</filters>

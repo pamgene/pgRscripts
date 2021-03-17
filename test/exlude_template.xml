@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<filters>
+  <filter>
+    <property name="name">Spot(exclude)</property>
+    <property name="validateAll">true</property>
+    <property name="dimensionName">Spot</property>
+    <expressions>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[ACM1_421_433]</property>
+      </expression>
+      <expression>
+          <property name="name">[ID]</property>
+          <property name="operatorName">is not equal to</property>
+          <property name="value">[ACM4_456_468]</property>
+      </expression>
+      <expression>
+            <property name="name">[ID]</property>
+            <property name="operatorName">is not equal to</property>
+            <property name="value">[ACM5_494_506]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[ACM5_498_510]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[ADDB_696_708]</property>
+      </expression>
+      <expression>
+        <property name="name">[ID]</property>
+        <property name="operatorName">is not equal to</property>
+        <property name="value">[ADDB_706_718]</property>
+      </expression>
+    </expressions>
+  </filter>
+</filters>

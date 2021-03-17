@@ -2,12 +2,15 @@ library(tidyr)
 library(dplyr)
 
 read_dataframes <- function(txt){
-  read.delim(text = txt, check.names = FALSE, stringsAsFactors = FALSE,  na.strings = "NA")
-}
+  data <- read.delim(text = txt, check.names = FALSE, stringsAsFactors = FALSE,  na.strings = "NA")
+  data <- data[, c(Barcode,Row,Col)]
+  }
 
 read_col <- function(a_df, col){
   return(a_df[[col]])
 }
+
+
 
 # remove trailing tabs
 remove_trailing_tabs <- function (a_txtfile){
@@ -36,6 +39,9 @@ sample_annot <- lapply(sample_text, read_dataframes)
 
 # class_names <- lapply(sample_annot, lapply, class)
 # 
+
+
+
 values <- lapply(sample_annot, read_col, "Barcode")
 
 sample_annot_combined <- sample_annot %>% bind_rows
