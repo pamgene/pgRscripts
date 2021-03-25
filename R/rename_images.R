@@ -1,6 +1,9 @@
 library(fs)
 
+
 rename_pattern <- read.delim2(file.choose(), header =FALSE, stringsAsFactors = FALSE) 
+# see the test folder for an example rename_pattern.txt
+
 images_folder  <- choose.dir()
 in_images_long <- list.files(images_folder, pattern= "\\.tif", recursive = TRUE, full.names = TRUE)
 in_images_short<- list.files(images_folder, pattern= "\\.tif", recursive = TRUE)
