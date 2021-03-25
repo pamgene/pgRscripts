@@ -1,6 +1,5 @@
 library(fs)
 
-
 rename_pattern <- read.delim2(file.choose(), header =FALSE, stringsAsFactors = FALSE) 
 # see the test folder for an example rename_pattern.txt
 
