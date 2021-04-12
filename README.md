@@ -22,4 +22,4 @@ The R folder contains the following R scripts.
 ## rename images
 
 It uses a rename pattern file (see test/rename_pattern.txt).
-The file defines a regexp pattern to find and replace text in the filesnames.
+The file defines a regexp pattern to find and replace text in the filenames.

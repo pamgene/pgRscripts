@@ -3,7 +3,7 @@ library(dplyr)
 
 read_dataframes <- function(txt){
   data <- read.delim(text = txt, check.names = FALSE, stringsAsFactors = FALSE,  na.strings = "NA")
-  data <- data[, c(Barcode,Row,Col)]
+  data <- data[, c("Barcode", "Row", "Col")]
   }
 
 read_col <- function(a_df, col){
